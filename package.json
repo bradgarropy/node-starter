@@ -1,0 +1,32 @@
+{
+    "name": "vanilla-starter",
+    "version": "1.0.0",
+    "description": "🍦 vanilla javascript starter",
+    "keywords": [
+        "node",
+        "eslint"
+    ],
+    "homepage": "https://github.com/bradgarropy/vanilla-starter",
+    "bugs": {
+        "url": "https://github.com/bradgarropy/vanilla-starter/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradgarropy/vanilla-starter"
+    },
+    "scripts": {
+        "build": "node index.js",
+        "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^5.6.1",
+        "jest": "^23.6.0"
+    }
+}
