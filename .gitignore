@@ -11,9 +11,6 @@ dist
 # test
 coverage
 
-# host
-.netlify
-
 # secrets
 .env*
 
