@@ -19,7 +19,7 @@ jobs:
                   node-version: 20
                   registry-url: https://registry.npmjs.org/
             - name: "📦 install"
-              run: npm ci
+              run: npm install --force
             - name: "🧪 test"
               run: npm run test
             - name: "☂️ coverage"
