@@ -48,8 +48,8 @@ _2024-12-17_
 
 - Improve `eslint` configuration
 
-[unreleased]: https://github.com/bradgarropy/remix-starter/compare/v3.3.0...HEAD
-[3.3.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v3.3.0
-[3.2.0]: https://github.com/bradgarropy/remix-starter/releases/tag/v3.2.0
+[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.3.0...HEAD
+[3.3.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.3.0
+[3.2.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.2.0
 [keep-a-changelog]: https://keepachangelog.com
 [semver]: https://semver.org
