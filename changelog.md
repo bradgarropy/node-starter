@@ -36,6 +36,12 @@ _YYYY-MM-DD_
 
 - _TBD_
 
+## [3.4.0][3.4.0]
+
+_2025-01-09_
+
+- Update [codecov action][codecov-action]
+
 ## [3.3.0][3.3.0]
 
 _2024-12-17_
@@ -48,8 +54,10 @@ _2024-12-17_
 
 - Improve `eslint` configuration
 
-[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.3.0...HEAD
+[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.4.0...HEAD
+[3.4.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.4.0
 [3.3.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.3.0
 [3.2.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.2.0
 [keep-a-changelog]: https://keepachangelog.com
 [semver]: https://semver.org
+[codecov-action]: https://github.com/codecov/codecov-action
