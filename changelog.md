@@ -36,6 +36,12 @@ _YYYY-MM-DD_
 
 - _TBD_
 
+## [3.6.0][3.6.0]
+
+_2025-02-27_
+
+- Automate terminals with [vscode tasks][vscode-tasks]
+
 ## [3.5.0][3.5.0]
 
 _2025-02-26_
@@ -60,7 +66,8 @@ _2024-12-17_
 
 - Improve `eslint` configuration
 
-[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.5.0...HEAD
+[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.6.0...HEAD
+[3.6.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.6.0
 [3.5.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.5.0
 [3.4.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.4.0
 [3.3.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.3.0
@@ -69,3 +76,4 @@ _2024-12-17_
 [semver]: https://semver.org
 [codecov-action]: https://github.com/codecov/codecov-action
 [github-actions]: https://github.com/features/actions
+[vscode-tasks]: https://code.visualstudio.com/docs/terminal/basics#_automating-terminals-with-tasks
