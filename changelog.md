@@ -36,6 +36,12 @@ _YYYY-MM-DD_
 
 - _TBD_
 
+## [3.6.1][3.6.1]
+
+_2025-04-24_
+
+- Support TypeScript's [`erasableSyntaxOnly`][erasable-syntax-only] configuration
+
 ## [3.6.0][3.6.0]
 
 _2025-02-27_
@@ -66,7 +72,8 @@ _2024-12-17_
 
 - Improve `eslint` configuration
 
-[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.6.0...HEAD
+[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.6.1...HEAD
+[3.6.1]: https://github.com/bradgarropy/node-starter/releases/tag/v3.6.1
 [3.6.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.6.0
 [3.5.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.5.0
 [3.4.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.4.0
@@ -77,3 +84,4 @@ _2024-12-17_
 [codecov-action]: https://github.com/codecov/codecov-action
 [github-actions]: https://github.com/features/actions
 [vscode-tasks]: https://code.visualstudio.com/docs/terminal/basics#_automating-terminals-with-tasks
+[erasable-syntax-only]: https://typescriptlang.org/tsconfig/#erasableSyntaxOnly
