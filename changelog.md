@@ -72,7 +72,8 @@ _2024-12-17_
 
 - Improve `eslint` configuration
 
-[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.6.0...HEAD
+[unreleased]: https://github.com/bradgarropy/node-starter/compare/v3.6.1...HEAD
+[3.6.1]: https://github.com/bradgarropy/node-starter/releases/tag/v3.6.1
 [3.6.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.6.0
 [3.5.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.5.0
 [3.4.0]: https://github.com/bradgarropy/node-starter/releases/tag/v3.4.0
